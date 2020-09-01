@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanataranets/taranets.yana.git"
+  },
+  "author": "Yana Taranets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanataranets/taranets.yana/issues"
+  },
+  "homepage": "https://github.com/yanataranets/taranets.yana#readme"
+}
