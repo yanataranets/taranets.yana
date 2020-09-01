@@ -40,11 +40,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598991084859</updated>
-      <workItem from="1598991086017" duration="5972000" />
+      <workItem from="1598991086017" duration="7689000" />
     </task>
+    <task id="LOCAL-00001" summary="main page colors">
+      <created>1598998753511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598998753511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main page colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="main page colors" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1598998752052">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598998752052" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1598998760955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598998760955" />
   </component>
 </project>
