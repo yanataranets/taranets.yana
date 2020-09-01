@@ -2119,3 +2119,7 @@ span.error {
     bottom:0px;opacity:1;transform: scaleX(1);
 }
 
+.card-img-top{
+    height: 30px;
+    width: 30px;
+}
